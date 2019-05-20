@@ -18,9 +18,8 @@ libs:
     12. npm-run-all
 
 how to run this repo
-git clone 
+git clone git@github.com:prince1456/react-express-graphql.git
 
  cd react-express-graphql
  yarn 
  yarn start
- 
